@@ -1,0 +1,125 @@
+{
+ "canvas_rgb": [
+  238,
+  216,
+  184
+ ],
+ "trail_rgb": [
+  153,
+  103,
+  56
+ ],
+ "side-full.webp": {
+  "w": 1496,
+  "h": 658,
+  "kb": 178
+ },
+ "side-line.webp": {
+  "w": 1496,
+  "h": 658,
+  "kb": 155
+ },
+ "side-full-m.webp": {
+  "w": 1100,
+  "h": 484,
+  "kb": 101
+ },
+ "side-line-m.webp": {
+  "w": 1100,
+  "h": 484,
+  "kb": 120
+ },
+ "heel_gap_cols": 0,
+ "heel_src": {
+  "w": 1542,
+  "h": 953,
+  "split": 775
+ },
+ "heel-l.webp_bbox": [
+  10,
+  31,
+  774,
+  943
+ ],
+ "heel-l.webp": {
+  "w": 775,
+  "h": 953,
+  "kb": 108
+ },
+ "heel-r.webp_bbox": [
+  92,
+  10,
+  757,
+  914
+ ],
+ "heel-r.webp": {
+  "w": 767,
+  "h": 953,
+  "kb": 101
+ },
+ "lace_aspect": [
+  [
+   1900,
+   1309
+  ],
+  [
+   1900,
+   1309
+  ]
+ ],
+ "pair-cream.webp": {
+  "w": 1500,
+  "h": 1048,
+  "kb": 217
+ },
+ "pair-tan.webp": {
+  "w": 1500,
+  "h": 1048,
+  "kb": 245
+ },
+ "detail-toe.webp": {
+  "w": 1200,
+  "h": 1200,
+  "kb": 168
+ },
+ "detail-trail.webp": {
+  "w": 1200,
+  "h": 1200,
+  "kb": 132
+ },
+ "detail-tongue.webp": {
+  "w": 1200,
+  "h": 1200,
+  "kb": 144
+ },
+ "life-rug.webp": {
+  "w": 1300,
+  "h": 1300,
+  "kb": 249
+ },
+ "life-tie.webp": {
+  "w": 1300,
+  "h": 1300,
+  "kb": 247
+ },
+ "life-socks.webp": {
+  "w": 1300,
+  "h": 1300,
+  "kb": 131
+ },
+ "life-room.webp": {
+  "w": 1300,
+  "h": 1300,
+  "kb": 207
+ },
+ "life-hold.webp": {
+  "w": 1300,
+  "h": 1300,
+  "kb": 260
+ },
+ "box.webp": {
+  "w": 1100,
+  "h": 1100,
+  "kb": 47
+ }
+}
